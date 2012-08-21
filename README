@@ -1,0 +1,9 @@
+Sorting
+=======
+
+I created this sorting class to refamiliarize myself with a few
+sorting algorithms as well as improve my knowledge in java generics.
+Another one of my goals was to learn unit testing so I decided to
+create JUnit test for each sorting algorithm. I plan on adding to
+the class when ever I get a chance.  Algorithms to add include 
+shell sort, bucket sort, radix sort, and counting sort. 
