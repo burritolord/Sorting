@@ -8,9 +8,9 @@ create JUnit test for each sorting algorithm. Algorithms to add include
 shell sort and bucket sort. 
 
 Contains the following
-	- Selection sort
-	- Insertion sort
-	- Bubble Sort
-	- Merge sort
-	- Quick sort
-	- Heap sort
+    - Selection sort
+    - Insertion sort
+    - Bubble Sort
+    - Merge sort
+    - Quick sort
+    - Heap sort
